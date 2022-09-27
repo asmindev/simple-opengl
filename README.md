@@ -1,2 +1,6 @@
-# simple-opengl
-Simple shapes with opengl base
+
+# OpenGl
+
+Membuat bentuk bentuk sederhana dengan OpenGl
+
+
